@@ -1,5 +1,6 @@
 # hacker-matrix
-黑客帝国matrxi 特效 前端
+前端实现
+黑客帝国 矩阵matrix 特效
 
-效果如下
+实际效果如下
 ![sample](matrix-example.png)

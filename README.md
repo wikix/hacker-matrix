@@ -2,4 +2,4 @@
 黑客帝国matrxi 特效 前端
 
 效果如下
-![sample](matric-example.png)
+![sample](matrix-example.png)

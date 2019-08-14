@@ -4,3 +4,6 @@
 
 实际效果如下
 ![sample](matrix-example.png)
+
+动态效果如下
+![GIF](matrix-example.gif)
